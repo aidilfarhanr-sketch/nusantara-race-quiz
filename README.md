@@ -127,4 +127,4 @@ Dibuat oleh:
 
 ##  Catatan
 
-Project ini dibuat sebagai game edukasi interaktif bertema pengetahuan umum Indonesia. Game ini dapat digunakan untuk hiburan, latihan cerdas cermat, demo project, maupun portofolio.
+Project ini dibuat sebagai game edukasi interaktif bertema pengetahuan umum Indonesia. Game ini dapat digunakan untuk hiburan, latihan cerdas cermat.
